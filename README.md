@@ -6,17 +6,17 @@ A responsive and secure user authentication module for websites, allowing users 
 
 ### Login
 
-Email & password
+Email & password  
 Login as Guest
 
 
 ### Sign-Up
 
-New user registration with email and password
+New user registration with email and password  
 Phone No.
 
 ## Using Social App
 
-Google
-Facebook
+Google  
+Facebook  
 LinkedIn
