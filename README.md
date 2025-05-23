@@ -1,3 +1,6 @@
 # LogIn And SignUp Form
 
-@Facebook
+#Facebook
+#Google
+#LinkedIn
+#Login option
